@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: page
 title: About
+permalink: /about/
 ---
-# About page
 
-This page tells you a little bit about me.
+hiiii this is a huge WIP I havent even decided the language to write in sorry
