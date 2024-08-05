@@ -207,6 +207,7 @@ table {
   line-height: 54px;
   background-color: #FFfba0; }
   .site-nav .nav-trigger {
+    background-color: #FFfba0;
     display: none; }
   .site-nav .menu-icon {
     display: none; }
@@ -260,7 +261,7 @@ table {
 .site-footer {
   border-top: 1px solid #cfcfcf;
   padding: 30px 0;
-  background-color: #AAFAEA; }
+  background-color: #BBFCFA; }
 
 .footer-heading {
   font-size: 18px;
